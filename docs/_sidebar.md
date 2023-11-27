@@ -7,4 +7,4 @@
   * 数学课程笔记
     * [① MIT 18.01 sc  单变量微积分](数学课程笔记/ch01.md)
   * 论文阅读笔记
-    * [① ](论文阅读笔记/ch01.md)
+    * [① GAIA: a benchmark for General AI Assistants（GAIA：通用人工智能助手的基准） ](论文阅读笔记/ch01.md)
