@@ -31,4 +31,6 @@
 
 ## 论文阅读笔记
 
+- [① GAIA: a benchmark for General AI Assistants（GAIA：通用人工智能助手的基准） ](论文阅读笔记/ch01.md)
+
 欢迎大家批评指正，在线浏览地址：[https://2404589803.github.io/My-blog/](https://2404589803.github.io/My-blog/)
