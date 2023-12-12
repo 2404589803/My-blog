@@ -9,3 +9,6 @@
     * [① GAIA: a benchmark for General AI Assistants（GAIA：通用人工智能助手的基准） ](论文笔记/ch01.md)
   * 面试笔记
     * [① AI公司面试经历](面试笔记/ch01.md)
+  * 拓扑机器学习笔记
+    * [① 什么是拓扑机器学习](拓扑机器学习笔记/ch01.md)
+  
