@@ -22,6 +22,7 @@
 - [② YOLOV8使用教程](教程笔记/ch02.md)
 - [③ CogVLM agent使用教程](教程笔记/ch03.md)
 - [④ 大模型Function Calling能力详解](教程笔记/ch04.md)
+- [⑤ 人工智能领域中常见词汇详解](教程笔记/ch05.md)
 
 ## 读书笔记
 
