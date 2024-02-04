@@ -71,4 +71,6 @@
 
 - [① 泰坦尼克号 - 灾难中的机器学习](Kaggle比赛笔记/ch01.md)
 
+## kaggle知识点笔记
+
 欢迎大家批评指正，在线浏览地址：[https://2404589803.github.io/My-blog/](https://2404589803.github.io/My-blog/)
