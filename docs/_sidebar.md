@@ -1,8 +1,8 @@
 * [目录](README.md)
   * 教程笔记
     * [① LLM模型全流程通用教程](教程笔记/ch01.md)
-    * [② YOLOV8使用教程](教程笔记/ch02.md)
-    * [③ CogVLM agent使用教程](教程笔记/ch03.md)
+    * [② RAG实践教程](教程笔记/ch02.md)
+    * [③ Langchain实践教程](教程笔记/ch03.md)
     * [④ 大模型Function Calling能力详解](教程笔记/ch04.md)
     * [⑤ 人工智能领域中常见词汇详解](教程笔记/ch05.md)
     * [⑥ Transformer模型架构各层详解](教程笔记/ch06.md)
