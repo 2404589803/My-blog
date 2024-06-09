@@ -26,7 +26,11 @@
     * [① TRT-LLM](模型推理经验笔记/ch01.md)
     * [② vllm](模型推理经验笔记/ch02.md)
     * [③ OpenVINO](模型推理经验笔记/ch03.md)
-    
+    * [④ Llama.cpp](模型推理经验笔记/ch04.md)
+    * [⑤ Llamafile](模型推理经验笔记/ch05.md)
+    * [⑥ Ollama](模型推理经验笔记/ch06.md)
+    * [⑦ Transformers](模型推理经验笔记/ch07.md)
+    * [⑧ ONNX Runtime](模型推理经验笔记/ch08.md)
   * 模型源码分析笔记
     * [① Llama 模型结构分析](模型源码分析笔记/ch01.md)
     * [② Transformer模型源码分析](模型源码分析笔记/ch02.md)
