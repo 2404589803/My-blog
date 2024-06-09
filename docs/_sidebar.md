@@ -31,6 +31,8 @@
     * [⑥ Ollama](模型推理经验笔记/ch06.md)
     * [⑦ Transformers](模型推理经验笔记/ch07.md)
     * [⑧ ONNX Runtime](模型推理经验笔记/ch08.md)
+    * [⑨ TGI](模型推理经验笔记/ch09.md)
+    * [⑩ MLX](模型推理经验笔记/ch10.md)
   * 模型源码分析笔记
     * [① Llama 模型结构分析](模型源码分析笔记/ch01.md)
     * [② Transformer模型源码分析](模型源码分析笔记/ch02.md)
